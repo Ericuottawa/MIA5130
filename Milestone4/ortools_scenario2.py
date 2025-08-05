@@ -1,3 +1,12 @@
+# This file contains the code for Milestone 4 of MIA 5130: Routing Optimization.
+# Group 9
+# Authors: 
+# Zuo Xiong, 300448648
+# Songbin Zhang, 300502477
+# Leo Fonseca, 300489584
+# Jonathan Shubat, 8637442
+# University of Ottawa
+
 from ortools.constraint_solver import pywrapcp
 from ortools.constraint_solver import routing_enums_pb2
 distance_matrix = [
